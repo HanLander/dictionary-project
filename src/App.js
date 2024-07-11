@@ -10,7 +10,24 @@ function App() {
           <Dictionary defaultKeyword="home" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Hannah Lander and open sourced on Github</small>
+          <small>
+            Coded by{" "}
+            <a
+              href="www.linkedin.com/in/hannah-lander-b02311b0"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Hannah Lander
+            </a>{" "}
+            and open sourced on{" "}
+            <a
+              href="https://github.com/HanLander/dictionary-project/tree/main/src"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github
+            </a>
+          </small>
         </footer>
       </div>
     </div>

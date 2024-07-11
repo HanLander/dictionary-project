@@ -9,6 +9,11 @@ body {
 
 a {
   color: #9670f4;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #7858c6;
 }
 
 .App-header {
